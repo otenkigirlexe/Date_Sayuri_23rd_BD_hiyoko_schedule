@@ -28,6 +28,7 @@
 - **01_Serial_type** : FanClub advance reservation
 - **01_application_start_date** : 2025/07/01(Tue)
 - **01_application_deadline** : 2025/07/13(Sun)
+- **01_announcement_of_results** : 2025/07/24(Thu) <s>2025/07/17(Thu)</s>
 - **01_Serial_Unit_Price** : N/A
 - **01_number_of_serials** : N/A
 - **01_total_number_of_applications** : N/A
@@ -41,6 +42,7 @@
 - **02_Serial_type** : FanClub advance reservation
 - **02_application_start_date** : 2025/07/01(Tue)
 - **02_application_deadline** : 2025/07/13(Sun)
+- **02_announcement_of_results** : 2025/07/24(Thu) <s>2025/07/17(Thu)</s>
 - **02_Serial_Unit_Price** : N/A
 - **02_number_of_serials** : N/A
 - **02_total_number_of_applications** : N/A

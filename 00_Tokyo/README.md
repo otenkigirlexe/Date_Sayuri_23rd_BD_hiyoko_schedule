@@ -34,8 +34,8 @@
 - **01_total_number_of_applications** : N/A
 - **01_fellow_travellers** : me(@otenkigirl_exe) only.
 - **01_already_applied?** : already.
-- **01_ticket_hit?** : undecided.
-- **01_need_an_additional_application?** : undecided.
+- **01_ticket_hit?** : yes.
+- **01_need_an_additional_application?** : no.
 
 ## 02_serial_and_companion📰
 
@@ -48,8 +48,8 @@
 - **02_total_number_of_applications** : N/A
 - **02_fellow_travellers** : me(@otenkigirl_exe) only.
 - **02_already_applied?** : already.
-- **02_ticket_hit?** : undecided.
-- **02_need_an_additional_application?** : undecided.
+- **02_ticket_hit?** : yes
+- **02_need_an_additional_application?** : no.
 
 # 30_summary_of_serial_and_companion💰
 

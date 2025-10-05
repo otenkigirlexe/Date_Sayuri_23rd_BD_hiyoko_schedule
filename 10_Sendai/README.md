@@ -107,7 +107,6 @@
 - Tohoku Shinkansen Sendai Station Yamabiko 17 1215 >
 - Sightseeing in Sendai >
 - Arrival at Venue
-
 - Departing from a Venue
 - Tohoku Shinkansen Sendai Station Yamabiko 68 2055 >
 - Tohoku Shinkansen Fukushima Station Yamabiko 68 2121

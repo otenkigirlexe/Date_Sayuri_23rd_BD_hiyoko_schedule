@@ -106,29 +106,29 @@
 - Tohoku Shinkansen Tokyo Station Hayabusa 17 1045 >
 - Tohoku Shinkansen Sendai Station Yamabiko 17 1215 >
 - Sightseeing in Sendai >
-- Arrival at Venue
-- Departing from a Venue
+- Arrival at Venue >
+- Departing from a Venue >
 - Tohoku Shinkansen Sendai Station Yamabiko 68 2055 >
-- Tohoku Shinkansen Fukushima Station Yamabiko 68 2121
+- Tohoku Shinkansen Fukushima Station Yamabiko 68 2121 >
 - Arrive at Hotel Route Inn Grand Fukushima Station East 2130
 
 ## day2_itinerary🚢
 
-- JR Tohoku Main Line Fukushima Station 0806
-- JR Tohoku Main Line Kōri Station 0820
-- Arrive at Kōri Town Fureai Park 0840
-- Talk Show Viewing (End time to be determined)
-- JR Tohoku Main Line Kōri Station
-- JR Tohoku Main Line Fukushima Station
+- JR Tohoku Main Line Fukushima Station 0806 >
+- JR Tohoku Main Line Kōri Station 0820 >
+- Arrive at Kōri Town Fureai Park 0840 >
+- Talk Show Viewing (End time to be determined) >
+- JR Tohoku Main Line Kōri Station >
+- JR Tohoku Main Line Fukushima Station >
 - Arrive at Hotel Route Inn Grand Fukushima Station East
 
 ## day3_itinerary🚲
 
-- Hotel Route Inn Grand Fukushima Station East Checkout 1000 (Considering extending the checkout time by one hour.)
+- Hotel Route Inn Grand Fukushima Station East Checkout 1000 (Considering extending the checkout time by one hour.) >
 - Tohoku Shinkansen Fukushima Station Yamabiko 55 1113 >
 - Tohoku Shinkansen Sendai Station Yamabiko 55 1134 >
-- Arrive at Gamers Sendai Store 1200
-- Talking with my favorite
+- Arrive at Gamers Sendai Store 1200 >
+- Talking with my favorite >
 - JR Tohoku Main Line Sendai Station 1500 >
 - JR Tohoku Main Line Shiroishi Station 1548 >
 - JR Tohoku Main Line Shiroishi Station 1553 >
